@@ -1,0 +1,17 @@
+.error_input {
+  box-shadow: 0 0 0 1px red;
+}
+
+.error_block {
+  border: 1px red solid;
+}
+
+.error_text {
+  color: red;
+  margin-top: 10px;
+}
+
+.successfully_text {
+  color: rgb(0, 155, 0);
+  margin-top: 10px;
+}

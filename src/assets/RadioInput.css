@@ -1,0 +1,16 @@
+.radio_input {
+  max-width: 300px;
+  display: flex;
+  height: 30px;
+  align-items: center;
+}
+
+.radio_input > input {
+  width: 15px;
+  height: 15px;
+}
+
+.radio_input > label {
+  padding-left: 10px;
+  width: 100%;
+}
